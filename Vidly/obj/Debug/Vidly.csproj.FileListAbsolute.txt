@@ -1,0 +1,170 @@
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\ApplicationInsights.config
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll.config
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.pdb
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Owin.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\WebGrease.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+c:\Users\ben\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\ApplicationInsights.config
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Vidly.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Owin.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Ben\Source\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
