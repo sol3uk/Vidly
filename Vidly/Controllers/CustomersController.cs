@@ -23,6 +23,11 @@ namespace Vidly.Controllers
             _context.Dispose();
         }
 
+        public ActionResult New()
+        {
+            return View();
+        }
+
         // Customers/Index
         public ViewResult Index()
         {
