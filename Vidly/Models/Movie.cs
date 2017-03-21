@@ -16,13 +16,15 @@ namespace Vidly.Models
 
         [Required]
         public Genre Genre { get; set; }
-        //public byte GenreId { get; set; }
 
         [Required]
+        [Display(Name = "Date Added")]
         public DateTime DateAdded { get; set; }
 
+        [Display(Name = "Release Date")]
         public DateTime ReleaseDate { get; set; }
 
+        [Display(Name = "Number In Stock")]
         public byte NumberInStock { get; set; }
 
 
