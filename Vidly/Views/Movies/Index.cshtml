@@ -8,12 +8,15 @@
 
 @if (!Model.Any())
 {
+    <p>
+        @Html.ActionLink("New Movie", "New", "Movies", null, new { @class = "btn btn-primary" })
+    </p>
     <p>We don't have any movies yet.</p>
 }
 else
 {
     <p>
-        @Html.ActionLink("New Movie","New","Movies",null, new { @class = "btn btn-primary" })
+        @Html.ActionLink("New Movie", "New", "Movies", null, new { @class = "btn btn-primary" })
     </p>
     <table class="table table-bordered table-hover">
         <thead>

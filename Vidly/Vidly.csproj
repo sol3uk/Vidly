@@ -251,6 +251,18 @@
     <Compile Include="Migrations\201703160040262_populateMovies.Designer.cs">
       <DependentUpon>201703160040262_populateMovies.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703211201134_removeGenreLink.cs" />
+    <Compile Include="Migrations\201703211201134_removeGenreLink.Designer.cs">
+      <DependentUpon>201703211201134_removeGenreLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703211202580_addGenreLinkAgain.cs" />
+    <Compile Include="Migrations\201703211202580_addGenreLinkAgain.Designer.cs">
+      <DependentUpon>201703211202580_addGenreLinkAgain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703211249521_repopulateGenres.cs" />
+    <Compile Include="Migrations\201703211249521_repopulateGenres.Designer.cs">
+      <DependentUpon>201703211249521_repopulateGenres.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Genre.cs" />
@@ -384,6 +396,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703160040262_populateMovies.resx">
       <DependentUpon>201703160040262_populateMovies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703211201134_removeGenreLink.resx">
+      <DependentUpon>201703211201134_removeGenreLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703211202580_addGenreLinkAgain.resx">
+      <DependentUpon>201703211202580_addGenreLinkAgain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703211249521_repopulateGenres.resx">
+      <DependentUpon>201703211249521_repopulateGenres.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
