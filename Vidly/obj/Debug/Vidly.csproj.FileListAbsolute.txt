@@ -266,3 +266,9 @@ C:\Code\Vidly\Vidly\obj\Debug\Vidly.Migrations.populateMovies.resources
 C:\Code\Vidly\Vidly\obj\Debug\Vidly.Migrations.removeGenreLink.resources
 C:\Code\Vidly\Vidly\obj\Debug\Vidly.Migrations.addGenreLinkAgain.resources
 C:\Code\Vidly\Vidly\obj\Debug\Vidly.Migrations.repopulateGenres.resources
+C:\Code\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Code\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Code\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Code\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Code\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Code\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
