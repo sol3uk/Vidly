@@ -23,6 +23,52 @@ namespace Vidly.Controllers
             _context.Dispose();
         }
 
+        //Actioned when a customer is not picked up from the form
+        public ActionResult New()
+        {
+            var membershipTypes = _context.MembershipTypes.ToList();
+            var viewModel = new CustomerFormViewModel
+            {
+                Customer = new Customer(),
+                MembershipTypes = membershipTypes
+            };
+
+            return View("CustomerForm",viewModel);
+        }
+
+        //Saves the form
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Save(Customer customer)
+        {
+            if (!ModelState.IsValid)
+            {
+                var viewModel = new CustomerFormViewModel
+                {
+                    Customer = customer,
+                    MembershipTypes = _context.MembershipTypes.ToList()
+                };
+
+                return View("CustomerForm", viewModel);
+            }
+
+            if (customer.Id == 0)
+                _context.Customers.Add(customer);
+            else
+            {
+                var customerInDb = _context.Customers.Single(c => c.Id == customer.Id);
+
+                customerInDb.Name = customer.Name;
+                customerInDb.Birthdate = customer.Birthdate;
+                customerInDb.MembershipTypeId = customer.MembershipTypeId;
+                customerInDb.isSubscribedToNewsletter = customer.isSubscribedToNewsletter;
+            }
+            _context.SaveChanges();
+
+
+            return RedirectToAction("Index", "Customers");
+        }
+
         // Customers/Index
         public ViewResult Index()
         {
@@ -39,6 +85,22 @@ namespace Vidly.Controllers
                 return HttpNotFound();
 
             return View(customer);
+        }
+
+        public ActionResult Edit(int id)
+        {
+            var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+
+            if (customer == null)
+                return HttpNotFound();
+
+            var viewModel = new CustomerFormViewModel
+            {
+                Customer = customer,
+                MembershipTypes = _context.MembershipTypes.ToList()
+            };
+
+            return View("CustomerForm", viewModel);
         }
     }
 }
