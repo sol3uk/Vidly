@@ -12,10 +12,10 @@ namespace Vidly.Models
         {
             var movie = (Movie)validationContext.ObjectInstance;
 
-            if (movie.NumberInStock == 0)
-                return new ValidationResult("Number in Stock must be between 1 and 20");
+            if (movie.NumberInStock >= 1 && movie.NumberInStock <= 20 )
+                return ValidationResult.Success;
 
-            return ValidationResult.Success;
+            return new ValidationResult("Number in Stock must be between 1 and 20");
         }
     }
 }
