@@ -72,9 +72,10 @@ namespace Vidly.Controllers
         // Customers/Index
         public ViewResult Index()
         {
-            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
+            //No longer needed, because the viewmodel will not need to serve the data to the client, it goes via the API...
+            //var customers = _context.Customers.Include(c => c.MembershipType).ToList();
 
-            return View(customers);
+            return View(/*customers*/);
         }
 
         public ActionResult Details(int id)

@@ -24,6 +24,7 @@ namespace Vidly.DTOs
         public DateTime ReleaseDate { get; set; }
 
         //[StockLimits]
+        [Range(1, 20)]
         public byte NumberInStock { get; set; }
     }
 }
