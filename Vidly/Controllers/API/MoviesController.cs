@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using Vidly.Models;
@@ -20,9 +19,14 @@ namespace Vidly.Controllers.API
         }
 
         // GET /api/movies
-        public IEnumerable<MovieDTO> GetMovies()
+        public IHttpActionResult GetMovies()
         {
-            return _context.Movies.ToList().Select(Mapper.Map<Movie, MovieDTO>);
+            var movieDTOs = _context.Movies
+                .Include(c => c.Genre)
+                .ToList()
+                .Select(Mapper.Map<Movie, MovieDTO>);
+
+            return Ok(movieDTOs);
         }
 
         // GET /api/movies/1
@@ -64,7 +68,7 @@ namespace Vidly.Controllers.API
             if (movieInDb == null)
                 return NotFound();
 
-            Mapper.Map<MovieDTO, Movie>(movieDTO, movieInDb);
+            Mapper.Map(movieDTO, movieInDb);
 
             //The lines below are no longer needed since mapping using an auto mapper and a DTO (Domain Transfer Object)
             //movieInDb.Name = movieDTO.Name;
